@@ -1,31 +1,41 @@
-rank,domain,category,subcategory
-1,google.com,Search Engines,
-2,youtube.com,Streaming Media & Downloads,Video Streaming
-3,facebook.com,Social Networking,Social Media
-4,baidu.com,Search Engines,
-5,yahoo.com,Portals,Web Portals
-6,amazon.com,Shopping,E-Commerce
-7,wikipedia.org,Reference & Research,Online Encyclopedia
-8,qq.com,Social Networking,Instant Messaging
-9,google.co.in,Search Engines,
-10,twitter.com,Social Networking,Micro-blogging
-11,live.com,Email,
-12,taobao.com,Shopping,E-Commerce
-13,msn.com,Portals,Web Portals
-14,sina.com.cn,News,News & Media
-15,yahoo.co.jp,Portals,Web Portals
-16,google.co.jp,Search Engines,
-17,linkedin.com,Social Networking,Professional Networking
-18,weibo.com,Social Networking,Micro-blogging
-19,bing.com,Search Engines,
-20,yandex.ru,Search Engines,
-21,vk.com,Social Networking,Social Media
-22,hao123.com,Portals,Web Portals
-23,instagram.com,Social Networking,Photo Sharing
-24,reddit.com,Social Networking,Online Forums
-25,wordpress.com,Blogs,Blog Hosting
-26,pinterest.com,Social Networking,Photo Sharing
-27,netflix.com,Streaming Media & Downloads,Video Streaming
-28,github.com,Technology,Software Development
-29,stackoverflow.com,Technology,Developer Resources
-30,apple.com,Technology,Consumer Electronics
+rank,domain,gics_sector,gics_industry_group,industry,source
+1,google.com,Technology,Software & Services,Internet Software & Services,known-domain-map
+2,youtube.com,Communication Services,Media & Entertainment,Movies & Entertainment,known-domain-map
+3,facebook.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+4,baidu.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+5,yahoo.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+6,amazon.com,Consumer Discretionary,Retailing,Internet & Direct Marketing Retail,known-domain-map
+7,wikipedia.org,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+8,qq.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+9,google.co.in,Technology,Software & Services,Internet Software & Services,known-domain-map
+10,twitter.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+11,live.com,Technology,Software & Services,Internet Software & Services,known-domain-map
+12,taobao.com,Consumer Discretionary,Retailing,Internet & Direct Marketing Retail,known-domain-map
+13,msn.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+14,sina.com.cn,Communication Services,Media & Entertainment,Publishing,known-domain-map
+15,yahoo.co.jp,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+16,google.co.jp,Technology,Software & Services,Internet Software & Services,known-domain-map
+17,linkedin.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+18,weibo.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+19,bing.com,Technology,Software & Services,Internet Software & Services,known-domain-map
+20,yandex.ru,Technology,Software & Services,Internet Software & Services,known-domain-map
+21,vk.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+22,hao123.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+23,instagram.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+24,reddit.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+25,wordpress.com,Technology,Software & Services,Internet Software & Services,known-domain-map
+26,pinterest.com,Communication Services,Media & Entertainment,Interactive Media & Services,known-domain-map
+27,netflix.com,Communication Services,Media & Entertainment,Movies & Entertainment,known-domain-map
+28,github.com,Technology,Software & Services,Application Software,known-domain-map
+29,stackoverflow.com,Technology,Software & Services,Internet Software & Services,known-domain-map
+30,apple.com,Technology,Technology Hardware & Equipment,Technology Hardware Storage & Peripherals,known-domain-map
+31,booking.com,Consumer Discretionary,Consumer Services,Hotels Resorts & Cruise Lines,known-domain-map
+32,paypal.com,Financials,Diversified Financials,Transaction & Payment Processing Services,known-domain-map
+33,ebay.com,Consumer Discretionary,Retailing,Internet & Direct Marketing Retail,known-domain-map
+34,cnn.com,Communication Services,Media & Entertainment,Publishing,known-domain-map
+35,bbc.com,Communication Services,Media & Entertainment,Broadcasting,known-domain-map
+36,nytimes.com,Communication Services,Media & Entertainment,Publishing,known-domain-map
+37,microsoft.com,Technology,Software & Services,Systems Software,known-domain-map
+38,adobe.com,Technology,Software & Services,Application Software,known-domain-map
+39,spotify.com,Communication Services,Media & Entertainment,Movies & Entertainment,known-domain-map
+40,airbnb.com,Consumer Discretionary,Consumer Services,Hotels Resorts & Cruise Lines,known-domain-map
